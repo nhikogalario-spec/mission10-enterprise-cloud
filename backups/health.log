@@ -1,0 +1,7 @@
+===== Health Check Tue Nov  3 07:50:55 AM UTC 2026 =====
+WordPress container: RUNNING
+MariaDB container: RUNNING
+Disk usage:
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  8.1G  4.9G  63% /
+
